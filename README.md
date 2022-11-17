@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BryannaBlaze
-- 👀 I’m interested in app/game development
+- 👀 I’m interested in web/app/game development
 - 🌱 I’m currently learning more coding languages
 - 📫 How to reach me on Discord: BryannaBlaze
 
